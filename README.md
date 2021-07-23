@@ -1,7 +1,7 @@
 # Terraform
 Terraform is an open-source infrastructure as code software tool created by HashiCorp. Users define and provide data center infrastructure using a declarative configuration language known as HashiCorp Configuration Language, or optionally JSON.
 
-GitHub repo: https://github.com/MohammedHousa/Terraform
+GitHub Repo: https://github.com/MohammedHousa/Terraform
 
 Download terraform: https://www.terraform.io/downloads.html
 Basic CLI Features: https://www.terraform.io/docs/cli/commands/index.html
