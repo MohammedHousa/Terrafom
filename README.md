@@ -7,7 +7,7 @@ Download terraform: https://www.terraform.io/downloads.html
 Basic CLI Features: https://www.terraform.io/docs/cli/commands/index.html
 Terraform Resources: https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance
 
-tutorials:
+Tutorials:
 1. How to Install Terraform on Windows https://youtu.be/2fs_POGiFLY
 2. How to connect Terraform to AWS https://youtu.be/KHAEM8oX9nc
 3. How to launch AWS instance using Terraform https://youtu.be/MB0yW9pb73o
